@@ -61,20 +61,18 @@ In order to distribute assignments and receive submissions effectively, follow t
      ```
 
 ### 2. **Create a Branch:**
-   - **First-time assignment:** If it’s the student’s first assignment, they need to create a new branch where they will work on the assignment:
+   - **First-time assignment:** If it’s the student’s first assignment, they need to create an individual branch where they will work on all future assignments:
      ```bash
-     git checkout -b <assignment-branch>
+     git checkout -b <student-branch>
      ```
 
-   - **Subsequent assignments:** If they have already worked on previous assignments, they should already have an additional sub-branch (from previous assignments). They will:
-     - Switch to that branch:
+   - **Subsequent assignments:** For future assignments, students will continue working on the same individual branch they created for their first assignment. There’s no need to create a new branch for each assignment:
+     - Switch to their individual branch:
        ```bash
-       git checkout <previous-assignment-branch>
+       git checkout <student-branch>
        ```
-     - Create a new branch for the current assignment:
-       ```bash
-       git checkout -b <new-assignment-branch>
-       ```
+   
+   - Add or modify the required files for the new assignment on this branch.
 
 ### 3. **Complete the Assignment:**
    - Add or modify the required files in the new assignment branch.
