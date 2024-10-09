@@ -81,11 +81,11 @@ In order to distribute assignments and receive submissions effectively, follow t
    - After completing the assignment, students should commit their changes:
      ```bash
      git add .
-     git commit -m "Completed Assignment <assignment-name>"
+     git commit -m "Completed Assignment <student-branch>"
      ```
    - Push the changes to GitHub:
      ```bash
-     git push origin <assignment-branch>
+     git push origin <student-branch>
      ```
 
 ### 5. **Raise a Pull Request (PR):**
