@@ -1,4 +1,4 @@
-# Setting Up Branch Rules in Your Repository
+# Setting Up Branch Rules in Repository
 
 To ensure proper code management and control over your main branch, follow these steps to create and enable branch rules.
 
