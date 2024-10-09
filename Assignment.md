@@ -35,6 +35,8 @@ To ensure proper code management and control over your main branch, follow these
 7. **Save Changes:**
    - After selecting your rules and settings, scroll down and click the `Create` or `Save changes` button to apply the branch rules.
 
+---
+
 # Assignment Submission Process
 
 In order to distribute assignments and receive submissions effectively, follow the process outlined below. This will ensure that assignments are tracked properly and students can submit them via GitHub.
@@ -92,6 +94,8 @@ In order to distribute assignments and receive submissions effectively, follow t
    - Once the changes are pushed, students need to raise a Pull Request (PR) from their assignment branch to the main repository.
    - In the PR description, they should include details of what has been done.
 
+---
+
 ## Reviewing and Providing Feedback
 
 1. **Review the PR:**
@@ -100,4 +104,3 @@ In order to distribute assignments and receive submissions effectively, follow t
 2. **Give Feedback:**
    - Use GitHub's PR review features to give feedback on the code or ask for improvements.
    - You can approve the PR if the assignment is complete or request changes if necessary.
-
